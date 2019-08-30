@@ -318,7 +318,7 @@ The policy which authorizes the user on item management pages is implemented in 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![now-ui Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/51/original/opt_mdp_thumbnail.jpg?1521134752)](https://demos.creative-tim.com/now-ui-dashboard-pro/examples/dashboard.html?ref=ndl-readme) | [![now-ui Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/158/original/opt_mdp_laravel_thumbnail.jpg)](https://www.creative-tim.com/live/now-ui-dashboard-pro-laravel/?ref=ndl-readme)
+| [![now-ui Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/72/original/opt_nudp_thumbnail.jpg?1517588807)](https://demos.creative-tim.com/now-ui-dashboard-pro/examples/dashboard.html?ref=ndl-readme) | [![now-ui Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/210/original/opt_nudp_laravel_thumbnail.jpg?1567087239)](https://www.creative-tim.com/live/now-ui-dashboard-pro-laravel/?ref=ndl-readme)
 
 ## Demo
 
@@ -924,7 +924,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | HTML | LARAVEL |
 | --- | --- |
-| [![now-ui Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/211/thumb/opt_nud_laravel_thumbnail.jpg?1567087282)](https://demos.creative-tim.com/now-ui-dashboard-pro/examples/dashboard.html?ref=ndl-readme) | [![now-ui Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/210/thumb/opt_nudp_laravel_thumbnail.jpg?1567087239)](https://www.creative-tim.com/live/now-ui-dashboard-pro-laravel/?ref=ndl-readme)
+| [![now-ui Dashboard Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/72/original/opt_nudp_thumbnail.jpg?1517588807)](https://demos.creative-tim.com/now-ui-dashboard-pro/examples/dashboard.html?ref=ndl-readme) | [![now-ui Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/210/original/opt_nudp_laravel_thumbnail.jpg?1567087239)](https://www.creative-tim.com/live/now-ui-dashboard-pro-laravel/?ref=ndl-readme)
 
 ## Change log
 
