@@ -4,9 +4,9 @@
 
 *Frontend version*: Now UI Dashboard v1.4.1. More info at https://www.creative-tim.com/product/now-ui-dashboard-pro/?ref=ndl-readme
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/now-ui-dashboard-pro-laravel/intro.gif?raw=true)
+<img src="https://github.com/creativetimofficial/public-assets/raw/master/now-ui-dashboard-pro-laravel/intro.gif?raw=true" width="100%" />
 
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and up.
 
 ## Prerequisites
 
@@ -919,7 +919,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://www.creative-tim.com/live/now-ui-dashboard-pro-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=ndl-readme>
 - License Agreement: <https://www.creative-tim.com/license?ref=ndl-readme>
 - Support: <https://www.creative-tim.com/contact-us?ref=ndl-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-now-ui-dashboard-pro-laravel/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/now-ui-dashboard-pro-laravel/issues)
 - **Dashboards:**
 
 | HTML | LARAVEL |
@@ -946,7 +946,7 @@ We use GitHub Issues as the official bug tracker for the now-ui Dashboard Larave
 ## Licensing
 
 - Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=ndl-readme)
-- Creative Tim License (https://www.creative-tim.com/license?ref=ndl-readme).
+- [Creative Tim License](https://www.creative-tim.com/license?ref=ndl-readme).
 
 
 ## Useful Links
