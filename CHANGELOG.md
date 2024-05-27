@@ -30,3 +30,7 @@ All notable changes to `Laravel Now UI Dashboard Pro` theme for Laravel will be 
 ## Version 1.0.4
 
 - Update to Laravel 9.x
+
+## Version 1.1.0
+
+- Update to Laravel 11.x
